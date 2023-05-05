@@ -15,8 +15,8 @@
 </div>
 <br><br>
 <div class="github-stats" align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Wolschick&show_icons=true&theme=transparent&include_all_commits" alt="Github-first-square">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Wolschick&layout=compact&langs_count=16&show_icons=true&theme=transparent" alt="Github-first-square">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Wolschick&show_icons=true&theme=tokyonight&include_all_commits" alt="Github-first-square">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Wolschick&layout=compact&langs_count=16&show_icons=true&theme=tokyonight" alt="Github-first-square">
 </div>
 <br><br>
 
@@ -24,13 +24,15 @@
 
 <br><br>
 <div class="sobre">
-    <div class="text" align="center">
-        <!-- <svg height="30" width="200">
-            <text x="20" y="35" fill="red">Sobre mim: </text>
-        </svg> -->
+    <div class="text" align="left" width="100%">
         <img src="https://www.coolgenerator.com/Data/Textdesign/202305/250498fb01c4c2527b50f07cf307eca5.png" alt="sobre-texto-placehold-it">
     </div> 
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero exercitationem ullam reprehenderit eum nulla quos? Consectetur sed dolor, cumque temporibus sint molestiae voluptatem consequatur eos cum odit consequuntur quidem ut! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit quod quisquam illum, ducimus a inventore aliquid, laudantium totam corrupti libero molestiae neque officia enim voluptas eligendi dolore temporibus, sed accusamus!</p>
+    <p> "🤓"? Você tá brincando comigo? Passei uma grande parte da minha vida escrevendo tudo isso e sua resposta para mim é "🤓"? Você é tão deficiente mental que a única coisa que consegue compreender é "🤓" - ou você é apenas um idiota que pensa que com uma resposta tão curta pode fazer uma declaração sobre o quão sem sentido o que foi escrito? Bem, quero que você saiba que o que escrevi NÃO foi sem sentido, na verdade, até tive meu trabalho escrito revisado por vários professores de literatura. Não acredita em mim? Aparentemente não, e sua resposta a isso provavelmente será "🤓" mais uma vez. Eu dou a mínima? Não, parece que eu dou a mínima para a porra de um emoji? Não também. Aposto que você tirou um tempo da sua vida para digitar esse emoji também, aposto que você sentou lá e riu sozinho por 20 segundos antes de pressionar "enviar". Você é tão patético. Sinceramente, estou pensando em encaminhá-lo a um psiquiatra, mas simplesmente sou bom demais para fazer algo assim. Você, no entanto, fará de tudo para fazer alguém de tolo respondendo a uma declaração bem pensada, inteligente ou bem-humorada que provavelmente levou mais tempo para ser escrita do que você pode durar na cama com um chimpanzé. O que eu tenho a dizer para você? Absolutamente nada. Eu não poderia me incomodar em responder a uma tentativa tão inútil de resposta. Você quer "🤓" em sua lápide? </p>
+    <ul>
+        <li>GRE</li>
+        <li>MI</li>
+        <li>O</li>
+    </ul>
 </div>
 <br><br>
 
@@ -38,10 +40,7 @@
 
 <br><br>
 <div class="linguagens">
-    <div class="text" align="center">
-        <!-- <svg height="30" width="200">
-            <text x="20" y="35" fill="red">Trabalhando com: </text>
-        </svg> -->
+    <div class="text" align="left">
         <img src="https://www.coolgenerator.com/Data/Textdesign/202305/12d2a9a7ab8e946c1cc79bc58032cbe2.png" alt="trabalhando-com-texto-placehold-it">
     </div> 
     <div class="container" align="center">
@@ -69,6 +68,6 @@
 <br><br>
 <div id="snk" align="center">
 
-![Snake animation](https://github.com/Gabmagnus/Gabmagnus/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucas-Wolschick/Lucas-Wolschick/blob/output/github-contribution-grid-snake.svg)
 
 </div>
