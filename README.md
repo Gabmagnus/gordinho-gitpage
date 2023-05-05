@@ -24,8 +24,8 @@
 
 <br><br>
 <div class="sobre">
-    <div class="text" align="left" width="100%">
-        <img src="https://www.coolgenerator.com/Data/Textdesign/202305/250498fb01c4c2527b50f07cf307eca5.png" alt="sobre-texto-placehold-it">
+    <div class="text" align="center" width="75%">
+        <img src="/src/about/sobre_sixcaps.png" alt="sobre-texto-placehold-it">
     </div> 
     <p> "🤓"? Você tá brincando comigo? Passei uma grande parte da minha vida escrevendo tudo isso e sua resposta para mim é "🤓"? Você é tão deficiente mental que a única coisa que consegue compreender é "🤓" - ou você é apenas um idiota que pensa que com uma resposta tão curta pode fazer uma declaração sobre o quão sem sentido o que foi escrito? Bem, quero que você saiba que o que escrevi NÃO foi sem sentido, na verdade, até tive meu trabalho escrito revisado por vários professores de literatura. Não acredita em mim? Aparentemente não, e sua resposta a isso provavelmente será "🤓" mais uma vez. Eu dou a mínima? Não, parece que eu dou a mínima para a porra de um emoji? Não também. Aposto que você tirou um tempo da sua vida para digitar esse emoji também, aposto que você sentou lá e riu sozinho por 20 segundos antes de pressionar "enviar". Você é tão patético. Sinceramente, estou pensando em encaminhá-lo a um psiquiatra, mas simplesmente sou bom demais para fazer algo assim. Você, no entanto, fará de tudo para fazer alguém de tolo respondendo a uma declaração bem pensada, inteligente ou bem-humorada que provavelmente levou mais tempo para ser escrita do que você pode durar na cama com um chimpanzé. O que eu tenho a dizer para você? Absolutamente nada. Eu não poderia me incomodar em responder a uma tentativa tão inútil de resposta. Você quer "🤓" em sua lápide? </p>
     <ul>
@@ -40,25 +40,31 @@
 
 <br><br>
 <div class="linguagens">
-    <div class="text" align="left">
-        <img src="https://www.coolgenerator.com/Data/Textdesign/202305/12d2a9a7ab8e946c1cc79bc58032cbe2.png" alt="trabalhando-com-texto-placehold-it">
+    <div class="text" align="center" width="75%">
+        <img src="/src/about/developing_in_sixcaps.png" alt="sobre-texto-placehold-it">
     </div> 
-    <div class="container" align="center">
-        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=javascript&sort=">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Gab-js" height="40px" width="50px">
-        </a>
-        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=html5&sort=">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Gab-html" height="40px" width="50px">
-        </a>
-        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=css&sort=">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Gab-css" height="40px" width="50px">
-        </a>
-        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=python&sort=">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Gab-python" height="40px" width="50px">
+    <div width=¨200%¨ class="container" align="center">
+        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=java&sort=">
+            <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor" alt="ico-java" height="40px" width="50px">
         </a>
         <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=php&sort=">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Gab-php-learning" height="40px" width="50px">
+            <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="ico-php" height="40px" width="50px">
         </a>
+        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=python&sort=">
+            <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="ico-python" height="40px" width="50px">
+        </a>
+        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=c&sort=">
+            <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="ico-c" height="40px" width="50px">
+        </a>
+        <a href="https://github.com/Lucas-Wolschick?tab=repositories&q=&type=&language=csharp&sort=">
+            <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" alt="ico-csharp" height="40px" width="50px">
+        </a>
+        <br>
+        <br>
+        <!-- ferramentas -->
+        <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" alt="ico-vscode" height="40px" width="50px">
+        <img src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" alt="ico-debian" height="40px" width="50px">
+        <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="ico-git" height="40px" width="50px">
     </div>
 </div>
 <br><br>
